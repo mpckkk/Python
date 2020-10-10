@@ -1,0 +1,33 @@
+name = input("Enter Your Name: ")
+age = input("Enter Your age: ")
+print("Hello " + name + "!" + "You are " + age)
+
+##### input/build basic calculator
+num1 = input("Enter a number: ")
+num2 = input("Enter another number: ")
+result = int(num1) + int(num2)
+print(result)
+
+color = input("Enter a color: ")
+plural_noun =("Enter Plural: ")
+celebrity = input("Enter a celebrity: ")
+print("Roses are " + color)
+print(plural_noun + " are blue")
+print("I love " + celebrity)
+
+#### lists
+friends = ["Kevin", "Karen", "Jim","Oscar", "Tim"]
+print(friends[0])
+print(friends[1:])
+
+friends[1] = "Mike"
+
+####lists function
+lucky_numbers =[4,8,15,16,23,42]
+friends =["Kevin", "Karen", "Jim","Oscar", "Tim"]
+friends.append("Creed")
+friends.insert(1, "Kelly")
+friends.clear()
+friends.pop()
+lucky_numberw.sort()
+print(friends)
