@@ -1,13 +1,7 @@
-# Python
-Python Projects
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
-11.
+# Python Fun projects
+Will updated more in the future...
+
+1.Basic translator
+2.Calculator
+3.Calendar
+4.SnakeGame
