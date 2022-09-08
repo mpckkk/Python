@@ -7,5 +7,6 @@ Will updated more in the future...
 4.SnakeGame
 5.Barcode
 6.Publicationgraph
+7.CurrencyRate
 
 python vision 3.8
