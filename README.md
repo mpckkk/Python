@@ -9,4 +9,6 @@ Will updated more in the future...
 6.Publicationgraph
 7.CurrencyRate
 
-python vision 3.8
+Bioinformatics projects
+1.global alignment
+2.local alignment
