@@ -1,6 +1,5 @@
-# Python Fun projects
+Python Fun projects
 Will updated more in the future...
-
 1.Basic translator
 2.Calculator
 3.Calendar
@@ -9,6 +8,7 @@ Will updated more in the future...
 6.Publicationgraph
 7.CurrencyRate
 
-Bioinformatics projects
+Bioinformatics tools
 1.global alignment
 2.local alignment
+3.metaTreePro
