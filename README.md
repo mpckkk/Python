@@ -7,6 +7,7 @@ Will updated more in the future...
 5.Barcode
 6.Publicationgraph
 7.CurrencyRate
+8.Alg
 
 Bioinformatics tools
 1.global alignment
