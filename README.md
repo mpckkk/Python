@@ -12,4 +12,4 @@ Will updated more in the future...
 Bioinformatics tools
 1.global alignment
 2.local alignment
-3.metaTreePro
+3.FindMotif
