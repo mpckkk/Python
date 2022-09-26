@@ -8,10 +8,8 @@ Will updated more in the future...
 6.Publicationgraph
 7.CurrencyRate
 8.PlayWithAlgorithm
-9.
 
 Bioinformatics tools
 1.global alignment
 2.local alignment
 3.FindMotif
-4.
