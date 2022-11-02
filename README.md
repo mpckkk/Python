@@ -1,4 +1,4 @@
-# Python Fun projects (Will updated more in the future...)
+# Python Fun projects
 1.Basic translator
 2.Calculator
 3.Calendar
