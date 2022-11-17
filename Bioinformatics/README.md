@@ -1,5 +1,5 @@
 # Bioinformatics tools
-1.global alignment
-2.local alignment
+1.Global Alignment
+2.Local Alignment
 3.FindMotif
 4.SVM_Classification
