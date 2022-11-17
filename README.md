@@ -1,5 +1,5 @@
 # Python Fun projects
-1.Basic translator
+1.Translator
 2.Calculator
 3.Calendar
 4.SnakeGame
