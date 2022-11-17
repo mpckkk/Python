@@ -11,9 +11,9 @@ from PIL import Image
 # Page Title
 ######################
 
-image = Image.open('dna-logo.jpg')
+#image = Image.open('dna-logo.jpg')
 
-st.image(image, use_column_width=True)
+#st.image(image, use_column_width=True)
 
 st.write("""
 # DNA Nucleotide Count Web App
