@@ -1,3 +1,4 @@
 lazypredict
 sklearn
 matplotlib
+seaborn
