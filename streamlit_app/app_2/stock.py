@@ -1,6 +1,6 @@
-!pip install matplotlib
-!pip install yfinance
-!pip install seaborn
+conda install matplotlib
+conda install yfinance
+conda install seaborn
 
 import streamlit as st
 import pandas as pd
