@@ -4,5 +4,4 @@
 3.Calendar
 4.SnakeGame
 5.Barcode
-6.Publicationgraph
-7.CurrencyRate
+6.CurrencyRate
