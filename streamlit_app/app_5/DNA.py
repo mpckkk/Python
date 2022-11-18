@@ -11,9 +11,9 @@ from PIL import Image
 # Page Title
 ######################
 
-image = Image.open('dna-logo.jpg')
+#image = Image.open('dna-logo.jpg')
 
-st.image(image, use_column_width=True)
+#st.image(image, use_column_width=True)
 
 st.write("""
 # DNA Nucleotide Count Web App
@@ -83,7 +83,7 @@ df.reset_index(inplace=True)
 df = df.rename(columns = {'index':'nucleotide'})
 st.write(df)
 
-### 4. Display Bar Chart using Altair
+### 4. Bar Chart using Altair
 st.subheader('4. Display Bar chart')
 p = alt.Chart(df).mark_bar().encode(
     x='nucleotide',
