@@ -1,7 +1,3 @@
-conda install matplotlib
-conda install yfinance
-conda install seaborn
-
 import streamlit as st
 import pandas as pd
 import base64
