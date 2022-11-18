@@ -119,7 +119,7 @@ def imagedownload(plt, filename):
 st.write("""
 # The Machine Learning Algorithm Comparison App
 In this Wep App implementation, the **lazypredict** library is used for building several machine learning models at once.
-Developed by: Pengchong Ma)
+Developed by: Pengchong Ma
 """)
 
 #---------------------------------#
