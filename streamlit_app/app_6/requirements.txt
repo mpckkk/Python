@@ -1,5 +1,6 @@
 lazypredict
 scikit-learn
+sklearn
 matplotlib
 seaborn
 streamlit
