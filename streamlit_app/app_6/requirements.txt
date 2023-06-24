@@ -1,4 +1,4 @@
 lazypredict
-sklearn
 matplotlib
 seaborn
+scikit-learn
