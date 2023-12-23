@@ -7,7 +7,7 @@ import numpy as np
 import yfinance as yf
 
 st.title('S&P 500 App')
-st.set_option('deprecation.showPyplotGlobalUse', False)
+
 st.markdown("""
 This app retrieves the list of the **S&P 500** (from Wikipedia) and its corresponding **stock closing price** (year-to-date)!
 * **Python libraries:** base64, pandas, streamlit, numpy, matplotlib, seaborn
@@ -72,6 +72,7 @@ def price_plot(symbol):
   plt.title(symbol, fontweight='bold')
   plt.xlabel('Date', fontweight='bold')
   plt.ylabel('Closing Price', fontweight='bold')
+  st.set_option('deprecation.showPyplotGlobalUse', False)
   return st.pyplot()
 
 num_company = st.sidebar.slider('Number of Companies', 1, 5)
