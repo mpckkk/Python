@@ -16,16 +16,14 @@ Algorithm Exploration: Code implementations of algorithms and data structures fo
 Technologies and Libraries Used
 
 This repository leverages a wide range of Python libraries, including but not limited to:
-Data Science
-Machine Learning
-Web Development
-Bioinformatics
-Miscellaneous
+Data Science/Machine Learning/Web Development/Bioinformatics/Miscellaneous
 
 Why This Repository?
 
 To document my journey in Python programming.
+
 To serve as a resource for others who might find inspiration or learn from my scripts.
+
 To encourage collaboration and feedback from the community.
 
 Contributions
