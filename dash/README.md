@@ -1,1 +1,1 @@
-In this dash reopo, it contains Fun project with python dash bio.
+In this dash reopo, it contains single webpage app with python dash bio.
