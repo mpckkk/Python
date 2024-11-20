@@ -12,12 +12,10 @@
 Dash Bio is a suite of bioinformatics components built to work with
 [Dash](https://github.com/plotly/dash/).
 
-Announcement: https://medium.com/@plotlygraphs/announcing-dash-bio-ed8835d5da0c
+Announcement: [Read the blog post](https://medium.com/@plotlygraphs/announcing-dash-bio-ed8835d5da0c)  
 
-Demo:
-[https://dash-gallery.plotly.host/Portal/?search=Bioinformatics](https://dash-gallery.plotly.host/Portal/?search=Bioinformatics)
+Demo: [Explore the demo](https://dash-gallery.plotly.host/Portal/?search=Bioinformatics)
 
-Documentation:
-[https://dash.plotly.com/dash-bio](https://dash.plotly.com/dash-bio)
+Documentation: [Learn more](https://dash.plotly.com/dash-bio)  
 
-Original Github repo is here(https://github.com/plotly/dash-bio/tree/master)
+Original Repository: [Click here](https://github.com/plotly/dash-bio/tree/master)
