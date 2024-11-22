@@ -7,7 +7,9 @@
 ![Teaser image](./stylegan-teaser.png)
 **Picture:** *These people are not real &ndash; they were produced by our generator that allows control over different aspects of the image.*
 
-Original repository:
+
+Original repository: https://github.com/NVlabs/stylegan
+
 
 For business inquiries, please visit our website and submit the form: [NVIDIA Research Licensing](https://www.nvidia.com/en-us/research/inquiries/)
 
