@@ -4,7 +4,7 @@
 
 For business inquiries, please visit our website and submit the form: [NVIDIA Research Licensing](https://www.nvidia.com/en-us/research/inquiries/)
 
-Oringinal repositories: https://github.com/NVlabs/stylegan3
+Oringinal repositories: https://github.com/NVlabs/stylegan2
 
 **&#9733;&#9733;&#9733; NEW: [StyleGAN2-ADA-PyTorch](https://github.com/NVlabs/stylegan2-ada-pytorch) is now available; see the full list of versions [here](https://nvlabs.github.io/stylegan2/versions.html) &#9733;&#9733;&#9733;**
 
