@@ -1,5 +1,8 @@
 <img src="imaginaire_logo.svg" alt="imaginaire_logo.svg" height="360"/>
 
+Oringinal repo: https://github.com/NVlabs/imaginaire
+
+
 # Imaginaire
 ### [Docs](http://deepimagination.cc/) | [License](LICENSE.md) | [Installation](INSTALL.md) | [Model Zoo](MODELZOO.md)
 
