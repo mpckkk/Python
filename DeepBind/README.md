@@ -1,5 +1,6 @@
 DEEPBIND training scripts
 =========================
+Oringinal repo: https://github.com/jisraeli/DeepBind
 
 This source tree was distributed as part of the Nature Biotechnology 
 supplementary software release for DeepBind. Users of DeepBind
