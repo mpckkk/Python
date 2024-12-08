@@ -25,7 +25,7 @@ https://deepmind.com/research/publications/
 
 ## Projects
 
-*   Magnetic control of tokamak plasmas through deep reinforcement learning, Nature 2022
+*   Magnetic control of tokamak plasmas through deep reinforcement learning, **Nature 2022**
 *   Pushing the Frontiers of Density Functionals by Solving the Fractional Electron Problem, Science 2021
 *   Mind the Gap: Assessing Temporal Generalization in Neural Language Models, NeurIPS 2021
 *   The Difficulty of Passive Learning in Deep Reinforcement Learning, NeurIPS 2021
@@ -90,7 +90,6 @@ https://deepmind.com/research/publications/
 *   Deep Ensembles: A Loss Landscape Perspective
 *   Powerpropagation
 *   Physics Inspired Models
-
 
 
 ## Disclaimer
