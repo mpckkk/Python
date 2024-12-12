@@ -1,5 +1,7 @@
 # numpy-ml
 
+Original repo: https://github.com/ddbourgin/numpy-ml
+
 ## Installation
 
 ### For rapid experimentation
