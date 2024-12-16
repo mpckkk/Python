@@ -1,7 +1,7 @@
 # bestnewmusic
 [![TravisCI](https://travis-ci.org/ddbourgin/bestnewmusic.svg)](https://travis-ci.org/ddbourgin/bestnewmusic)
 
-View recent highly rated albums in the terminal. Check the orginal repo: https://github.com/ddbourgin/bnm
+View recent highly rated albums in the terminal. Check the oringinal repo: https://github.com/ddbourgin/bnm
 
 ![bnm](images/bnm.gif "bnm p4k")
 
