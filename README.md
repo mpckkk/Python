@@ -1,7 +1,6 @@
 # Python
 
 [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
-[![GitHub stars](https://img.shields.io/github/stars/mpckkk/Python.svg?style=social&label=Star&maxAge=2592000)](https://github.com/mpckkk/Python/stargazers)
 [![GitHub watchers](https://img.shields.io/github/watchers/mpckkk/Python.svg?style=social&label=Watch&maxAge=2592000)](https://github.com/mpckkk/Python/watchers)
 
 
