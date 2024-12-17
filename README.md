@@ -1,8 +1,9 @@
 # Python
 
 [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
-[![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/stargazers/)
-[![GitHub watchers](https://img.shields.io/github/watchers/Naereen/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/watchers/)
+[![GitHub stars](https://img.shields.io/github/stars/mpckkk/Python.svg?style=social&label=Star&maxAge=2592000)](https://github.com/mpckkk/Python/stargazers)
+[![GitHub watchers](https://img.shields.io/github/watchers/mpckkk/Python.svg?style=social&label=Watch&maxAge=2592000)](https://github.com/mpckkk/Python/watchers)
+
 
 Welcome to my Python Playground! 🎉 This repository is a collection of fun, experimental, and educational Python projects I’ve worked on while exploring the endless possibilities of programming. Each project here represents a stepping stone in my learning journey, exploring the boundless potential of Python.
 
