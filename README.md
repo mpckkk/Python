@@ -1,6 +1,7 @@
 # Python
 
 [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
+[![GitHub commits](https://badgen.net/github/commits/Naereen/Strapdown.js)](https://GitHub.com/Naereen/StrapDown.js/commit/)
 
 Welcome to my Python Playground! 🎉 This repository is a collection of fun, experimental, and educational Python projects I’ve worked on while exploring the endless possibilities of programming. Each project here represents a stepping stone in my learning journey, exploring the boundless potential of Python.
 
