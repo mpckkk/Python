@@ -1,7 +1,7 @@
 # Python
 
 [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
-
+[![GitHub commits](https://badgen.net/github/commits/mpckkk/Python)](https://GitHub.com/mpckkk/Python/commit/)
 [![GitHub watchers](https://img.shields.io/github/watchers/mpckkk/Python.svg?style=social&label=Watch&maxAge=2592000)](https://github.com/mpckkk/Python/watchers)
 
 
