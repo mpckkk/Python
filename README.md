@@ -1,6 +1,6 @@
 # Python
 
-![GitHub Repo stars](https://img.shields.io/github/stars/:mpckkk/:Python)
+[![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
 
 Welcome to my Python Playground! 🎉 This repository is a collection of fun, experimental, and educational Python projects I’ve worked on while exploring the endless possibilities of programming. Each project here represents a stepping stone in my learning journey, exploring the boundless potential of Python.
 
