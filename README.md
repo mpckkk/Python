@@ -2,7 +2,7 @@
 
 [![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 [![GitHub watchers](https://img.shields.io/github/watchers/mpckkk/Python.svg?style=social&label=Watch&maxAge=2592000)](https://github.com/mpckkk/Python/watchers)
-
+![Maintenance Status](https://img.shields.io/badge/Maintained-yes-green)
 
 Welcome to my Python Playground! 🎉 This repository is a collection of fun, experimental, and educational Python projects I’ve worked on while exploring the endless possibilities of programming. Each project here represents a stepping stone in my learning journey, exploring the boundless potential of Python.
 
