@@ -1,7 +1,6 @@
 # Python
 
 [![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
-[![GitHub commits](https://badgen.net/github/commits/mpckkk/Python)](https://GitHub.com/mpckkk/Python/commit/)
 [![GitHub watchers](https://img.shields.io/github/watchers/mpckkk/Python.svg?style=social&label=Watch&maxAge=2592000)](https://github.com/mpckkk/Python/watchers)
 
 
