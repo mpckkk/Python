@@ -19,3 +19,6 @@ ProtoMotions
 
 
 Sana
+
+
+FoundationPose
