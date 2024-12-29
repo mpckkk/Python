@@ -26,3 +26,6 @@ FoundationPose
 
 
 EdgeRunner 
+
+
+trajdata
