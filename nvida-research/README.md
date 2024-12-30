@@ -9,7 +9,7 @@ Here's some ongoing projects in nvida.
 **gbrl_sb3**: GBRL-based Actor-Critic algorithms implemented in stable-baselines3
 
 
-BundleSDF
+**BundleSDF**
 
 
 TokenBench
