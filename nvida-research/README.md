@@ -1,6 +1,6 @@
 ## NVIDIA Research
 
-Here's some ongoing projects in nvida. 
+Here's some ongoing research projects in nvida. 
 
 
 **Note: This list will keep updating.**
@@ -12,24 +12,23 @@ Here's some ongoing projects in nvida.
 **BundleSDF**
 
 
-TokenBench
+**TokenBench**
 
 
-VILA
+**VILA**
 
 
-ProtoMotions
+**ProtoMotions**
 
 
-Sana
+**Sana**
 
 
-FoundationPose
+**FoundationPose**
 
 
 
-EdgeRunner 
+**EdgeRunner** 
 
 
-trajdata
-
+**trajdata**
