@@ -1,8 +1,8 @@
 ## NVIDIA Research
 
 
-Working on listing cureently nvida open-source projects.
-Here's some ongoing projects.
+Here's some ongoing projects in nvida. Note: This list will keep updateing.
+
 
 gbrl_sb3
 
@@ -30,3 +30,4 @@ EdgeRunner
 
 
 trajdata
+
