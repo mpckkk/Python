@@ -1,6 +1,6 @@
 ## NVIDIA Research
 
-Here's some ongoing research projects in nvida. You can find the original repo from [here](https://github.com/NVlabs).
+Here's some ongoing research projects in nvida. You can find all the original repo from [here](https://github.com/NVlabs).
 
 **Note: This list will keep updating.**
 ## 
