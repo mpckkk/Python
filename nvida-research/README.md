@@ -8,7 +8,7 @@ Here's some ongoing research projects in nvida. You can find all the original re
 **gbrl_sb3**: GBRL-based Actor-Critic algorithms implemented in stable-baselines3
 
 
-**BundleSDF**
+**BundleSDF**: Neural 6-DoF Tracking and 3D Reconstruction of Unknown Objects
 
 
 **TokenBench**
