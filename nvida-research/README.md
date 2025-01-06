@@ -14,7 +14,7 @@ Here's some ongoing research projects in nvida. You can find all the original re
 **TokenBench**: A Video Tokenizer Evaluation Dataset
 
 
-**VILA**
+**VILA**: A multi-image visual language model with training, inference and evaluation recipe, deployable from cloud to edge (Jetson Orin and laptops)
 
 
 **ProtoMotions**
