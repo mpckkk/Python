@@ -23,7 +23,7 @@ Here's some ongoing research projects in nvida. You can find all the original re
 **Sana**: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer
 
 
-**FoundationPose**
+**FoundationPose**: Unified 6D Pose Estimation and Tracking of Novel Objects
 
 
 
