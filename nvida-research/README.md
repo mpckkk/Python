@@ -20,7 +20,7 @@ Here's some ongoing research projects in nvida. You can find all the original re
 **ProtoMotions**: Physics-based Character Animation
 
 
-**Sana**
+**Sana**: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer
 
 
 **FoundationPose**
