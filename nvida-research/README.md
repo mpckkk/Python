@@ -27,7 +27,7 @@ Here's some ongoing research projects in nvida. You can find all the original re
 
 
 
-**EdgeRunner** 
+**EdgeRunner**: Auto-regressive Auto-encoder for Efficient Mesh Generation
 
 
 **trajdata**
