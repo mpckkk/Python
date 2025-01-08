@@ -31,3 +31,6 @@ Here's some ongoing research projects in nvida. You can find all the original re
 
 
 **trajdata**: A unified interface to many trajectory forecasting datasets
+
+
+**NVIDIA Cosmos Nemotron: Optimized Vision Language Models**: State-of-the-art vision language models (VLMs) for diverse multimodal AI tasks across the edge, data center, and cloud
