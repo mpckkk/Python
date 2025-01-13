@@ -8,4 +8,4 @@ Here's some ongoing research projects in meta. You can find all the original rep
 **spdl** : Scalable and Performant Data Loading
 
 
-**audiocraft**
+**audiocraft** : A library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditionin
