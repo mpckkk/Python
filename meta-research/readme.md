@@ -12,3 +12,6 @@ Here's some ongoing research projects in meta. You can find all the original rep
 
 
 **AugLy** : A data augmentations library for audio, image, text, and video
+
+
+**Deep Reinforcement Learning in Continuing Tasks** : Codebase for the research paper "An Empirical Study of Deep Reinforcement Learning in Continuing Tasks"
