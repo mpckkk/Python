@@ -15,3 +15,6 @@ Here's some ongoing research projects in meta. You can find all the original rep
 
 
 **Deep Reinforcement Learning in Continuing Tasks** : Codebase for the research paper "An Empirical Study of Deep Reinforcement Learning in Continuing Tasks"
+
+
+**Coconut** : Training Large Language Model to Reason in a Continuous Latent Space
