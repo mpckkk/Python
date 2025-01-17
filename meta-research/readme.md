@@ -18,3 +18,6 @@ Here's some ongoing research projects in meta. You can find all the original rep
 
 
 **Coconut** : Training Large Language Model to Reason in a Continuous Latent Space
+
+
+**DCPerf** : DCPerf benchmark suite for hyperscale cloud applications
