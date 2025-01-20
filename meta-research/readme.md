@@ -24,3 +24,6 @@ Here's some ongoing research projects in meta. You can find all the original rep
 
 
 **Pearl**
+
+
+**fairseq2** : FAIR Sequence Modeling Toolkit 2
