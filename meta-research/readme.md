@@ -27,3 +27,6 @@ Here's some ongoing research projects in meta. You can find all the original rep
 
 
 **fairseq2** : FAIR Sequence Modeling Toolkit 2
+
+
+**habitat-lab** : A modular high-level library to train embodied AI agents across a variety of tasks and environments
