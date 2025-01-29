@@ -31,4 +31,6 @@ Here's some ongoing research projects in meta. You can find all the original rep
 
 **habitat-lab** : A modular high-level library to train embodied AI agents across a variety of tasks and environments
 
-**detectron2**
+**detectron2** 
+
+**habitat-lab**
