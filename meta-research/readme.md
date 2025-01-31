@@ -23,7 +23,7 @@ Here's some ongoing research projects in meta. You can find all the original rep
 **DCPerf** : DCPerf benchmark suite for hyperscale cloud applications
 
 
-**Pearl**
+**Pearl** : A Production-ready Reinforcement Learning AI Agent Library brought by the Applied Reinforcement Learning team at Meta
 
 
 **fairseq2** : FAIR Sequence Modeling Toolkit 2
