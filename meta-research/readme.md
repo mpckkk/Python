@@ -35,8 +35,8 @@ Here's some ongoing research projects in meta. You can find all the original rep
 
 **habitat-lab**
 
-**exca**
+**exca** : Execution and caching tool for python
 
-**BenchMARL** : A collection of MARL benchmarks based on TorchRL. benchmarl.readthedocs.io/
+**BenchMARL** : A collection of MARL benchmarks based on TorchRL
 
-**spot-sim2real** : Spot Sim2Real Infrastructure.Spot-Sim2Real is a modular library for development of Spot for embodied AI tasks (e.g., Language-guided Skill Coordination (LSC), Adaptive Skill Coordination (ASC)) -- configuring Spot robots, controlling sensorimotor skills, and coordinating Large Language Models (LLMs).
+**spot-sim2real** : Spot Sim2Real Infrastructure.Spot-Sim2Real is a modular library for development of Spot for embodied AI tasks (e.g., Language-guided Skill Coordination (LSC), Adaptive Skill Coordination (ASC)) -- configuring Spot robots, controlling sensorimotor skills, and coordinating Large Language Models (LLMs)
