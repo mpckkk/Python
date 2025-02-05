@@ -33,7 +33,7 @@ Here's some ongoing research projects in meta. You can find all the original rep
 
 **detectron2** : Detectron2 is a platform for object detection, segmentation and other visual recognition tasks
 
-**habitat-lab**
+**habitat-lab** : A modular high-level library to train embodied AI agents across a variety of tasks and environments
 
 **exca** : Execution and caching tool for python
 
