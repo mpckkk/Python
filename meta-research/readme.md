@@ -44,3 +44,5 @@ Here's some ongoing research projects in meta. You can find all the original rep
 **partnr-planner** : PARTNR benchmark for using Large Planning Models (LPMs) to solve Human-Robot Collaboration or Robot Instruction Following tasks in the Habitat simulator
 
 **audiobox-aesthetics** : Unified automatic quality assessment for speech, music, and sound
+
+**blt** : code for paper: "Byte Latent Transformer: Patches Scale Better Than Tokens"
