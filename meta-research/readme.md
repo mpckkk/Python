@@ -45,6 +45,8 @@ Here's some ongoing research projects in meta. You can find all the original rep
 
 **audiobox-aesthetics** : Unified automatic quality assessment for speech, music, and sound
 
+**pippo** : High-Resolution Multi-View Humans from a Single Image
+
 **blt** : code for paper: "Byte Latent Transformer: Patches Scale Better Than Tokens"
 
 **xformers** : Hackable and optimized Transformers building blocks, supporting a composable construction 
