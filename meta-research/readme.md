@@ -50,3 +50,5 @@ Here's some ongoing research projects in meta. You can find all the original rep
 **blt** : code for paper: "Byte Latent Transformer: Patches Scale Better Than Tokens"
 
 **xformers** : Hackable and optimized Transformers building blocks, supporting a composable construction 
+
+**param** : PArametrized Recommendation and Ai Model benchmark is a repository for development of numerous uBenchmarks as well as end to end nets for evaluation of training and inference platforms
