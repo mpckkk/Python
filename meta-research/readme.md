@@ -58,3 +58,5 @@ Here's some ongoing research projects in meta. You can find all the original rep
 **HolisticTraceAnalysis** : A library to analyze PyTorch traces
 
 **balance** : The balance python package offers a simple workflow and methods for dealing with biased data samples when looking to infer from them to some target population of interest
+
+**momentum** : A library for human kinematic motion and numerical optimization solvers to apply human motion
